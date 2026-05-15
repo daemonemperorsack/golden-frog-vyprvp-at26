@@ -1,4 +1,4 @@
-
+instant Golden Frog VyprVPN Addon | NAT-firewall + double-VPN is the best Golden Frog VyprVPN addon, featuring NAT-firewall and double-VPN. Secure, fast, and optimized for privacy.
 
 
 
